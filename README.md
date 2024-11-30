@@ -4,8 +4,8 @@
 
 В настоящее время доступны два официальных плагина:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) для быстрого обновления
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) для быстрого обновления
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) использует [Babel](https://babeljs.io/) для быстрого обновления
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) использует  [SWC](https://swc.rs/) для быстрого обновления
 
 ## Расширение конфигурации ESLint
 
