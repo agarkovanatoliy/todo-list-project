@@ -1,0 +1,44 @@
+.todo-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.task-text.done {
+    text-decoration: line-through;
+    color: #90908eeb;
+}
+
+.task-text{
+    color: #20204b;
+}
+
+.item-btn {
+    border: none;
+    background-repeat: no-repeat;
+    background-color: transparent;
+    width: 15px;
+    height: 15px;
+}
+
+.edit-btn {
+    background-image: url(./edit.svg);
+}
+
+.delete-btn {
+    background-image: url(./delete.svg);
+}
+
+.todo-input {
+    width: 400px;
+    height: 30px;
+}
+
+.todo-tools {
+    display: flex;
+    gap: 15px;
+}
+
+.task-field-box {
+    display: flex;
+}
